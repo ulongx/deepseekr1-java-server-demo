@@ -1,5 +1,5 @@
 # 私有化部署Deepseek-R1
-Deepseek开源了模型，它的强大使得我们可以本地私有化部署，下面我们就受挫一个demo实现。有需要的小伙伴可以拿下来运行实践一下。
+Deepseek开源了模型，它的强大使得我们可以本地私有化部署，下面我们就手搓一个demo实现。有需要的小伙伴可以拿下来运行实践一下。
  * 使用 Ollama 在本地运行 DeepSeek-R1 并提供 API 服务
  * 使用Spring Boot + Spring AI 实现对 DeepSeek-R1 的调用
  * 在网页上展示调用结果
