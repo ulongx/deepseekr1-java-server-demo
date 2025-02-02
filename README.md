@@ -63,5 +63,5 @@ public class ChatServiceImpl implements ChatService {
 6. 页面测试,数据返回是MarkDown的语法
 ![测试结果](test.png)
 
-## 有何不清楚可联系
+## 联系
 * e-mail: clay.xu@dvptech.cn
